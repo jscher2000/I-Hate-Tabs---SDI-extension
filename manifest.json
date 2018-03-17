@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "I Hate Tabs - SDI for Firefox",
+	"description": "Automatically converts new tabs to new windows instead.",
+	"version": "0.1",
+	"developer": {
+		"name": "Jefferson \"jscher2000\" Scher",
+		"url": "https://github.com/jscher2000/I-Hate-Tabs---SDI-extension"
+	}
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	}
+	"permissions": [
+	]
+}
